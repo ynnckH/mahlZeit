@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/html">
+  <head>
+      <link rel="stylesheet" href="styling.css">
+      <script src="decide.js"></script>
+      <meta charset="UTF-8">
+      <title>mahlZeit</title>
+  </head>
+  <body>
+
+    <div class="header">
+      <h1> <em>mahlZeit</em> - <small>Das Tool zur Mahlzeit</small></h1>
+      <br>
+    </div>
+    <div class="break">
+    </div>
+    <div class="content">
+        <div class="info">
+            <div class="infotext">
+                <p><strong>INFO</strong>:</p>
+                <p>Mit Hilfe von <strong>mahlZeit</strong> kann auf einfache Art ein Mittagslokal bestimmt werden.</p>
+                <br>
+                <br>
+                <p>Auf der rechten Seite können die Auswahlmöglichkeiten gewählt werden.</p>
+                <br>
+                <p>Falls keiner der Vorschläge dem Geschmack entspricht, kann über das Auswahlfeld weitere Auswahlmöglichkeiten hinzugefügt werden.</p>
+            </div>
+            <div class="infoend">
+                <p class="version">mahlZeit Version 1.0.1<br> erstellt  2023 von Yannick Helferich</p>
+            </div>
+        </div>
+        <div class="content-2">
+            <div class="selection">
+                <p><strong>Hier kannst du deine Auswahl treffen!</strong></p>
+                <p>weitere Auswahlmöglichkeiten Hinzufügen:</p>
+                <input class="inputfield" id="inputfield"></input>
+                <button class="btn nomargin" onclick="addOption()">+</button>
+            </div>
+            <div class="checks" id="selectionBox">
+                    <input class="checkbox" type="checkbox" id="meal1" name="Asiatisch">
+                    <label for="meal1" id="meal1L">Asiatisch</label>
+                    <input class="checkbox" type="checkbox" id="meal2" name="Pizza">
+                    <label for="meal2" id="meal2L">Pizza</label>
+                    <input class="checkbox" type="checkbox" id="meal3" name="Döner">
+                    <label for="meal3" id="meal3L">Döner</label>
+                    <input class="checkbox" type="checkbox" id="meal4" name="Allfrisch">
+                    <label for="meal4" id="meal4L">Allfrisch</label>
+                    <input class="checkbox" type="checkbox" id="meal5" name="Bratwurst/Currywurst">
+                    <label for="meal5" id="meal5L">Currywurst</label>
+                    <input class="checkbox" type="checkbox" id="meal6" name="McDonalds">
+                    <label for="meal6" id="meal6L">McDonalds</label>
+            </div>
+            <div class="identifier">
+                <button class="btn" onclick="check()"><strong>Lokal bestimmen!</strong></button>
+                <div class="result" id="resultDiv">
+                    <output class="output" id="out" readonly></output>
+                    <a class="link" id="resultLink" href="https://www.google.com/search?q=" onclick="location.href=this.href+varlink;return false;">Hier gehts weiter!</a>
+                </div>
+            </div>
+
+        </div>
+    </div>
+  </body>
+</html>

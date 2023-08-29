@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c2eec29f-7f68-40df-8dda-58c554308c71" name="Changes" comment="feat: css regelen angepasst" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2KGv1YKZePOyHZ8WkkMyTzUJlxz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="decide.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="decide.js" working-dir="$PROJECT_DIR$/.idea">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c2eec29f-7f68-40df-8dda-58c554308c71" name="Changes" comment="" />
+      <created>1673613521113</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673613521113</updated>
+      <workItem from="1673613522336" duration="5357000" />
+      <workItem from="1673852561354" duration="30425000" />
+      <workItem from="1673945742511" duration="7000" />
+      <workItem from="1674036806058" duration="12954000" />
+      <workItem from="1674110384150" duration="9546000" />
+      <workItem from="1674215419160" duration="229000" />
+      <workItem from="1674218609313" duration="899000" />
+      <workItem from="1674631833705" duration="14000" />
+      <workItem from="1675341231301" duration="330000" />
+      <workItem from="1675854776527" duration="150000" />
+      <workItem from="1675854943086" duration="1055000" />
+      <workItem from="1677682432374" duration="521000" />
+      <workItem from="1691565109703" duration="687000" />
+    </task>
+    <task id="LOCAL-00001" summary="feat: mahlZeit v1.0.0">
+      <created>1674051753840</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674051753840</updated>
+    </task>
+    <task id="LOCAL-00002" summary="feat: mahlZeit v1.0.0">
+      <created>1674057385542</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674057385542</updated>
+    </task>
+    <task id="LOCAL-00003" summary="feat: Button hinzufügen, ersetzt durch '+'">
+      <created>1674110424394</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1674110424394</updated>
+    </task>
+    <task id="LOCAL-00004" summary="feat: es können Neue Felder über das Auswahlfeld hinzugefügt werden.">
+      <created>1674123299511</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1674123299511</updated>
+    </task>
+    <task id="LOCAL-00005" summary="fix: Anstelle einer festen Anzahl für den Array verfügbaren Elementen wird nun über die Anzahl der tatsächlich vorhandenen Elemente iteriert.">
+      <created>1674125109579</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1674125109579</updated>
+    </task>
+    <task id="LOCAL-00006" summary="fix: consoleLogs auskommentiert.">
+      <created>1674125274772</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1674125274772</updated>
+    </task>
+    <task id="LOCAL-00007" summary="fix: v1.0.1">
+      <created>1674125290271</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1674125290271</updated>
+    </task>
+    <task id="LOCAL-00008" summary="fix: infobox bearbeitet">
+      <created>1674125940376</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1674125940376</updated>
+    </task>
+    <task id="LOCAL-00009" summary="feat: Button hover-Effekt smoother">
+      <created>1674133406162</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1674133406162</updated>
+    </task>
+    <task id="LOCAL-00010" summary="feat: verschieden css stylings geändert.">
+      <created>1674142336058</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1674142336058</updated>
+    </task>
+    <task id="LOCAL-00011" summary="feat: anpassung class zuweisung für neue Elemente">
+      <created>1674142414527</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1674142414527</updated>
+    </task>
+    <task id="LOCAL-00012" summary="feat: css regelen angepasst">
+      <created>1674218941754</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1674218941754</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: mahlZeit v1.0.0" />
+    <MESSAGE value="feat: Button hinzufügen, ersetzt durch '+'" />
+    <MESSAGE value="feat: es können Neue Felder über das Auswahlfeld hinzugefügt werden." />
+    <MESSAGE value="fix: Anstelle einer festen Anzahl für den Array verfügbaren Elementen wird nun über die Anzahl der tatsächlich vorhandenen Elemente iteriert." />
+    <MESSAGE value="fix: consoleLogs auskommentiert." />
+    <MESSAGE value="fix: v1.0.1" />
+    <MESSAGE value="fix: infobox bearbeitet" />
+    <MESSAGE value="feat: Button hover-Effekt smoother" />
+    <MESSAGE value="feat: verschieden css stylings geändert." />
+    <MESSAGE value="feat: anpassung class zuweisung für neue Elemente" />
+    <MESSAGE value="feat: css regelen angepasst" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: css regelen angepasst" />
+  </component>
+</project>

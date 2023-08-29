@@ -1,0 +1,215 @@
+body {
+    place-items: center;
+    font-family: "Courier New";
+    background-color: darkgray;
+}
+
+.header {
+    transition: transform, 300ms;
+    transform: scale(100%);
+    text-align: center;
+    border-style: solid;
+    border-color: darkblue;
+    border-radius: 5px;
+    border-width: 3px;
+    margin-top: 2rem;
+    margin-bottom: 5rem;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    background-color: lightgrey;
+}
+
+.header:hover {
+    transition: transform,box-shadow, 300ms;
+    transform: scale(102%);
+    box-shadow: 5px 5px 5px 5px black;
+}
+.content {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    flex-basis: 100%;
+    align-items: baseline;
+    height: 35rem;
+}
+
+.break {
+    flex-basis: 100%;
+    height: 0px;
+}
+
+
+    .info {
+        transition: transform, 300ms;
+        transform: scale(100%);
+        display: flex;
+        flex-direction: column;
+        flex-basis: 30%;
+        align-self: flex-start;
+        border-style: solid;
+        border-color: darkblue;
+        border-radius: 5px;
+        border-width: 3px;
+        margin-left: 2rem;
+        background-color: lightgrey;
+    }
+
+    .info:hover {
+        transition: transform,box-shadow, 300ms;
+        transform: scale(102%);
+        box-shadow: 5px 5px 5px 5px black;
+    }
+        .infotext {
+            margin-left: 1rem;
+        }
+
+        .infoend {
+            margin-top: 10rem;
+        }
+
+            .version {
+                margin-left: 1rem;
+            }
+
+.content-2 {
+    display: flex;
+    flex-basis: 60%;
+    flex-direction: column;
+    flex-wrap: wrap;
+    height: 35rem;
+    margin-left: 4.2rem;
+    margin-right: 2rem;
+}
+
+    .selection {
+        transition: transform, 300ms;
+        transform: scale(100%);
+        margin-left: 15rem;
+        margin-bottom: 2rem;
+        border-style: solid;
+        border-color: darkblue;
+        border-radius: 5px;
+        text-align: center;
+        background-color: lightgrey;
+    }
+
+    .selection:hover {
+        transition: transform,box-shadow, 300ms;
+        transform: scale(102%);
+        box-shadow: 5px 5px 5px 5px black;
+    }
+    .inputfield {
+        margin-bottom: 1rem;
+    }
+
+    .checks {
+        margin-left: 15rem;
+        margin-bottom: 5rem;
+    }
+
+    .checkbox {
+        height: 20px;
+        width: 20px;
+    }
+
+
+    .identifier {
+        margin-top: 11.5rem;
+        display: flex;
+        flex-basis: 15%;
+    }
+
+    .btn {
+
+        margin-left: 15rem;
+        margin-bottom: 2rem;
+        border-style: solid;
+        border-width: 3px;
+        border-radius: 5px;
+        border-color: red;
+        background-color: lightgrey;
+        font-family: "Courier New";
+    }
+
+    .btn:hover {
+        transition: background-color,box-shadow, 300ms;
+        background-color: red;
+        box-shadow: 2px 2px 2px 2px black;
+    }
+
+    .btn:active {
+        box-shadow: 0 0px black;
+        transition: transform, 100ms;
+        transform: translateY(4px);
+    }
+    .result {
+        visibility: hidden;
+        display: flex;
+        height: 3rem;
+        margin-left: 5rem;
+        border-style: solid;
+        border-color: red;
+        border-radius: 5px;
+        background-color: lightgrey;
+    }
+
+    .output {
+        align-self: center;
+        margin-left:16rem;
+        text-decoration: underline;
+        font-weight: bold;
+    }
+
+    .link {
+        padding: 2px;
+        border-style: solid;
+        border-width: 1px;
+        border-radius: 3px;
+        visibility: hidden;
+        align-self: center;
+        margin-left: 2rem;
+        margin-right: 2rem;
+        color: red;
+        text-decoration: none;
+        background-color: white;
+    }
+
+    .link:hover {
+        transition: color, 300ms;
+        color: black;
+    }
+
+.ergebniss-btn {
+    visibility: visible;
+    align-self: center;
+    width: 350px;
+    height: 200px;
+    margin-left:50rem;
+    border-style: solid;
+    border-width: 3px;
+    border-radius: 5px;
+    border-color: red;
+    background-color: lightgrey;
+    font-family: "Courier New";
+    font-size: large;
+}
+
+.ergebniss-btn:hover {
+    background-color: red;
+}
+
+#resultHeader {
+    visibility: hidden;
+}
+
+.nomargin {
+    margin: 0;
+}
+
+
+
+
+
+
+
+
